@@ -46,11 +46,5 @@ public class StringOperations
 	    //Pick out the substrings in a string
 	    System.out.println("Substring after seven characters: " + str2.substring(7));
 	    System.out.println("Substring between 7 and 13: " + str2.substring(7, 13));
-
-
-
-
-
-
 	}
 }
